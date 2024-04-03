@@ -1,0 +1,17 @@
+{
+  "name": "base64-converter",
+  "version": "1.0.0",
+  "description": "base64 encode/decode methods in nodejs",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+  },
+  "keywords": [
+  ],
+  "author": "Yassir Rajouani",
+  "license": "",
+  "bugs": {
+  },
+  "homepage": ""
+}
